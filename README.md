@@ -27,7 +27,7 @@ There are issues when running the sketch in Processing 3.x.
 	
 ## Gallery
 
-The colors currenltly used are:
+The colors currently used are:
 
 	tram                    #0000ff	blue
 	subway, metro           #00ff00	green
